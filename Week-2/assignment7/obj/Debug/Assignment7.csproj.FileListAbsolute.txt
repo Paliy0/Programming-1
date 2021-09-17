@@ -1,0 +1,10 @@
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\obj\Debug\Assignment7.csprojAssemblyReference.cache
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\obj\Debug\Assignment7.Form1.resources
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\obj\Debug\Assignment7.Properties.Resources.resources
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\obj\Debug\Assignment7.csproj.GenerateResource.cache
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\obj\Debug\Assignment7.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\bin\Debug\Assignment7.exe.config
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\bin\Debug\Assignment7.exe
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\bin\Debug\Assignment7.pdb
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\obj\Debug\Assignment7.exe
+C:\Users\pablo\Documents\Programming 1\Week-2\Assignment7\obj\Debug\Assignment7.pdb

@@ -1,0 +1,13 @@
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.exe
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.deps.json
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.runtimeconfig.json
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.runtimeconfig.dev.json
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.dll
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\bin\Debug\netcoreapp3.1\assignment7.pdb
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.csprojAssemblyReference.cache
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.AssemblyInfoInputs.cache
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.AssemblyInfo.cs
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.dll
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.pdb
+C:\Users\pablo\Documents\Programming 1\Week-3\assignment7\obj\Debug\netcoreapp3.1\assignment7.genruntimeconfig.cache

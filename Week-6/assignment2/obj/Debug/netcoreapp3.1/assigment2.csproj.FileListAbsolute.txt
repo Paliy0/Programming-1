@@ -1,0 +1,13 @@
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\bin\Debug\netcoreapp3.1\assigment2.exe
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\bin\Debug\netcoreapp3.1\assigment2.deps.json
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\bin\Debug\netcoreapp3.1\assigment2.runtimeconfig.json
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\bin\Debug\netcoreapp3.1\assigment2.runtimeconfig.dev.json
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\bin\Debug\netcoreapp3.1\assigment2.dll
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\bin\Debug\netcoreapp3.1\assigment2.pdb
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\obj\Debug\netcoreapp3.1\assigment2.csprojAssemblyReference.cache
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\obj\Debug\netcoreapp3.1\assigment2.AssemblyInfoInputs.cache
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\obj\Debug\netcoreapp3.1\assigment2.AssemblyInfo.cs
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\obj\Debug\netcoreapp3.1\assigment2.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\obj\Debug\netcoreapp3.1\assigment2.dll
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\obj\Debug\netcoreapp3.1\assigment2.pdb
+C:\Users\pablo\Documents\Programming 1\Week-6\assigment2\obj\Debug\netcoreapp3.1\assigment2.genruntimeconfig.cache
